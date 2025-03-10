@@ -1,6 +1,6 @@
 package classesandobjects;
 
-public class AccountHolder {//this class is the blueprint
+public class AccountHolder {//this class is the blueprint..
 String Name;
 	 int Age ;
 	float Salary;
